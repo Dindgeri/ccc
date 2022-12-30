@@ -4,8 +4,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Gill Sans",sans-serif;
-  background-color: #ffffff;
-  
+  background-color: #000000;
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;  
 }
 /* Navigation bar styles  */
 .nav {
